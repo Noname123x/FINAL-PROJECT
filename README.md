@@ -13,7 +13,7 @@ HTML,CSS,JAVA,PYTHON
 
 
 📫 How to reach me:
-Email: lore.culanculan.coc@phinmaed.com
+Email: maob.amad.coc@phinmaed.com
 LinkedIn:https://www.linkedin.com/in/marben-amad-54428b360/
 
 
